@@ -45,7 +45,7 @@ client.getPlayer("TAG")
 #### 2. Obtaining API Token & Whitelist IP
 You can create an API Token on the official [brawl stars developer website](https://developer.brawlstars.com/#/getting-started).
 
-While creating a "API Token" you will be asked to whitelist IPs, here just simply whitelist`128.128.128.128` IP address:
+While creating a "API Token" you will be asked to whitelist IPs, here just simply whitelist `128.128.128.128` IP address:
 
 ![IP Whitelist](https://iili.io/fAdhOu.png)
 
