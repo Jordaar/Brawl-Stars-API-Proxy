@@ -17,11 +17,11 @@ Simply import the `Client` class and instantiate it with your API token:
 ```js
 // TypeScript, ESM
 
-import  {  Client  }  from  "brawlstars";
+import  {  Client  }  from  "Brawl-Stars-API-Proxy";
 
 // CommonJS, Node.js
 
-const  {  Client  }  =  require("brawlstars");
+const  {  Client  }  =  require("Brawl-Stars-API-Proxy");
 
 // Create instance
 
